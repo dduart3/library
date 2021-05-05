@@ -1,6 +1,6 @@
-@import url('http://fonts.cdnfonts.com/css/england');
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
-@import url('http://fonts.cdnfonts.com/css/gobold');
+@import url(http://fonts.cdnfonts.com/css/england);
+@import url(https://fonts.googleapis.com/css2?family=Poppins&display=swap);
+@import url(http://fonts.cdnfonts.com/css/gobold);
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -380,7 +380,7 @@ body{
 }
 
 body{
-    background: url(/static/images/2.jpg);
+    background: url(assets/images/425cc553157e427c8ee3e948930fd955.jpg);
     background-blend-mode: exclusion;
     background-size: cover;
     background-repeat: no-repeat;
@@ -416,7 +416,7 @@ body{
     margin-right: 6%;
     border-radius: 4px;
     text-align: center;
-    background: url(/static/images/7.jpg);
+    background: url(assets/images/7b07bb952e626d9b0229823409c3cd2d.jpg);
     background-position: center;
     background-size: 100px;
     width: 120px;
@@ -435,7 +435,7 @@ body{
      content: "";
      width: 30px;
      height: 100%;
-     background: url(/static/images/7.jpg);
+     background: url(assets/images/7b07bb952e626d9b0229823409c3cd2d.jpg);
      background-position: center;
      background-size: 90px;
      position: absolute;
@@ -641,3 +641,5 @@ p{
 .not-read{
     color: red;
 }
+
+/*# sourceMappingURL=main.css.map*/
